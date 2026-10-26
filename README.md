@@ -39,3 +39,58 @@ Meu objetivo é contribuir para a qualidade de produtos digitais por meio da ide
 
 - [LinkedIn](https://www.linkedin.com/in/diogoamanciosilva/)
 - [GitHub](https://github.com/diogoamanciosilva)
+
+## 📚 Estudando e aprimorando conhecimentos
+
+### Automação Web
+
+![Cypress](https://img.shields.io/badge/Cypress-Web%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Web%20Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-Web%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Web%20Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Automação de API
+
+![Playwright](https://img.shields.io/badge/Playwright-API%20Testing-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-API%20Testing-323330?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-API%20Testing-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-API%20Testing-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
+### Automação Mobile
+
+![Appium](https://img.shields.io/badge/Appium-Mobile%20Automation-EE376D?style=for-the-badge&logo=appium&logoColor=white)
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-Mobile%20Automation-F6E05E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-Mobile%20Automation-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
+### Automação Android
+
+![Barista](https://img.shields.io/badge/Barista-Android%20Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-Android%20Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Automação iOS
+
+![XCUITest](https://img.shields.io/badge/XCUITest-iOS%20Automation-147EFB?style=for-the-badge&logo=apple&logoColor=white)
+
+### Testes de Performance
+
+![k6](https://img.shields.io/badge/k6-Performance%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-Performance%20Testing-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### Engenharia de Qualidade
+
+![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-Software%20Quality-0A66C2?style=for-the-badge)
+![Web Testing](https://img.shields.io/badge/Web-Testing-1976D2?style=for-the-badge)
+![Mobile Testing](https://img.shields.io/badge/Mobile-Testing-00897B?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API-Testing-6D4C41?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-RCA-6A1B9A?style=for-the-badge)
+
+### CI/CD
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Continuous%20Integration%20%26%20Delivery-2088FF?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Test%20Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Aprimoramento contínuo
+
+![Test Automation](https://img.shields.io/badge/Test%20Automation-Continuous%20Improvement-2EAD33?style=for-the-badge)
+![Software Quality](https://img.shields.io/badge/Software%20Quality-Best%20Practices-0A66C2?style=for-the-badge)
+![Testing Strategies](https://img.shields.io/badge/Testing%20Strategies-Web%20%7C%20Mobile%20%7C%20API-6A1B9A?style=for-the-badge)
