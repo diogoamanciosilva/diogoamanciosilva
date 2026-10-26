@@ -40,6 +40,56 @@ Meu objetivo é contribuir para a qualidade de produtos digitais por meio da ide
 - [LinkedIn](https://www.linkedin.com/in/diogoamanciosilva/)
 - [GitHub](https://github.com/diogoamanciosilva)
 
+
+
+## 🛠️ Habilidades
+
+### 🧪 Testes manuais e automatizados
+
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-0A66C2?style=for-the-badge)
+![Automated Testing](https://img.shields.io/badge/Automated-Testing-2EAD33?style=for-the-badge)
+
+### ✅ Tipos de teste
+
+![Functional Testing](https://img.shields.io/badge/Functional-Testing-1976D2?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression-Testing-6A1B9A?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration-Testing-00897B?style=for-the-badge)
+
+### 🌐 Automação Web e API
+
+![Web Testing](https://img.shields.io/badge/Web-Testing-17202C?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API-Testing-6D4C41?style=for-the-badge)
+
+### 📱 Testes Mobile
+
+![Mobile Testing](https://img.shields.io/badge/Mobile-Testing-1E88E5?style=for-the-badge)
+![Maestro](https://img.shields.io/badge/Maestro-Mobile%20Testing-1E88E5?style=for-the-badge)
+
+### 💻 Linguagens e banco de dados
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Frameworks e ferramentas de teste
+
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-Test%20Automation-F6E05E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Playwright](https://img.shields.io/badge/Playwright-Test%20Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-API%20Mocking-6E40C9?style=for-the-badge)
+![Maestro](https://img.shields.io/badge/Maestro-Mobile%20Testing-1E88E5?style=for-the-badge)
+
+### 🐞 Análise e documentação de bugs
+
+![Bug Tracking](https://img.shields.io/badge/Bug-Tracking-D32F2F?style=for-the-badge)
+![Bug Documentation](https://img.shields.io/badge/Bug-Documentation-795548?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-RCA-6A1B9A?style=for-the-badge)
+
+### 🔄 Versionamento e CI/CD
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ## 📚 Estudando e aprimorando conhecimentos
 
 ### Automação Web
