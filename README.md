@@ -101,7 +101,7 @@ Meu objetivo é contribuir para a qualidade de produtos digitais por meio da ide
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Continuous%20Integration%20%26%20Delivery-2088FF?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Test%20Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Aprimoramento contínuo
+### 🧠 Aprimoramento contínuo
 
 ![Test Automation](https://img.shields.io/badge/Test%20Automation-Continuous%20Improvement-2EAD33?style=for-the-badge)
 ![Software Quality](https://img.shields.io/badge/Software%20Quality-Best%20Practices-0A66C2?style=for-the-badge)
