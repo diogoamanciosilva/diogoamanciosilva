@@ -59,16 +59,6 @@ Meu objetivo é contribuir para a qualidade de produtos digitais por meio da ide
 - Aprimoramento em automação de testes
 - Evolução das práticas de automação e qualidade de software
 
-## 🚀 Projetos de QA
-
-- [Testes de API com WireMock e CodeceptJS](https://github.com/diogoamanciosilva/QA-teste-api-wiremock-codeceptjs)
-- [Ver todos os meus repositórios](https://github.com/diogoamanciosilva?tab=repositories)
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/diogoamanciosilva/)
-- [GitHub](https://github.com/diogoamanciosilva)
-
 
 ## 🚀 Projetos de QA
 
